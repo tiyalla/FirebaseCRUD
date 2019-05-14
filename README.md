@@ -1,6 +1,8 @@
 # AngularFirebaseCrud
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.4.
+It is a project about learning Firebase by building an Angular to do list app that performs CRUD operations to a NoSQL database in Firebase.
+
 
 ## Development server
 
